@@ -11,14 +11,23 @@ Adds often used features for Game Developers into the header bar. Tiny, zero dep
 
 <img alt="image" src="https://github.com/user-attachments/assets/33eef43c-f531-43cf-9f7e-5faaca40a9ec" />
 
-## 🎁 Install
+## 📥 Install
 
-[Download](https://github.com/gnat/blender-game-art-quick-tools/archive/refs/heads/main.zip) and extract `blender-game-art-quick-tools` into your Blender addons folder.
+📥 [Download current main from Github](https://github.com/gnat/blender-game-art-quick-tools//archive/refs/heads/main.zip)
+
+### Automatic: Install `.zip` directly.
+
+Start Blender ➡️ Edit ➡️ Preferences ... ➡️ Add-ons ➡️ Install From Disk... ➡️ Choose the .zip
+
+"Extra Tools for Viewport Header Menu" will install and activate automatically. ✅
+
+### Manual: Extract manually into your addons folder.
 
 * Linux: `~/.config/blender/5.3/scripts/addons/`
-* Windows: `C:\Users\USER\AppData\Roaming\Blender Foundation\Blender\5.3\scripts\addons`
+* Windows: `%APPDATA%\Blender Foundation\Blender\5.3\scripts\addons`
 
-Enable it: Start Blender ➡️ Edit ➡️ Preferences ... ➡️ Add-ons ➡️ Extra Tools for Viewport Header Menu ✅
+Start Blender ➡️ Edit ➡️ Preferences ... ➡️ Add-ons ➡️ Extra Tools for Viewport Header Menu ✅
+
 
 ## 🟧 Blender to 🟩 Substance to 🟦 Unreal Workflow
 
