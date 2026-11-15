@@ -13,21 +13,23 @@ Adds often used features for Game Developers into the header bar. Tiny, zero dep
 
 ## 📥 Install
 
-📥 [Download current main from Github](https://github.com/gnat/blender-game-art-quick-tools//archive/refs/heads/main.zip)
-
 ### Automatic: Install `.zip` directly.
 
-Start Blender ➡️ Edit ➡️ Preferences ... ➡️ Add-ons ➡️ Install From Disk... ➡️ Choose the .zip
+📥 [Download current main from Github](https://github.com/gnat/blender-game-art-quick-tools//archive/refs/heads/main.zip)
+
+Start Blender ➡️ Edit ➡️ Preferences ... ➡️ Get Extensions ➡️ Install From Disk... ➡️ Choose the `.zip`
 
 Game Art Quick Tools will install and activate automatically. ✅
 
 ### Manual: Extract manually into your addons folder.
 
-* Linux: `~/.config/blender/5.3/scripts/addons/`
+📥 [Download current main from Github](https://github.com/gnat/blender-game-art-quick-tools//archive/refs/heads/main.zip)
+
 * Windows: `%APPDATA%\Blender Foundation\Blender\5.3\scripts\addons`
+* Linux: `~/.config/blender/5.3/scripts/addons/`
+* MacOS: `~/Library/Application Support/Blender/5.3/scripts/addons/`
 
 Start Blender ➡️ Edit ➡️ Preferences ... ➡️ Add-ons ➡️ Game Art Quick Tools ✅
-
 
 ## 🟧 Blender to 🟩 Substance to 🟦 Unreal Workflow
 
