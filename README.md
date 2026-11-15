@@ -1,6 +1,6 @@
-# 🧊 Blender: Game Art Quick Tools
+# 🧊 Game Art Quick Tools
 
-Adds often used features for Game Developers into the header bar. Tiny, zero dependency add-on. 
+Adds often used features for Game Developers into the header bar. Tiny, zero dependency add-on. For Blender 5.3+
 
 * Quick switch viewpoints. Switch orientations more intuitively (inspired by [Blender for Artists](https://www.bforartists.de/)).
 * Quick Import / Export
