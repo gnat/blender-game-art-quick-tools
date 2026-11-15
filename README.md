@@ -19,14 +19,14 @@ Adds often used features for Game Developers into the header bar. Tiny, zero dep
 
 Start Blender ➡️ Edit ➡️ Preferences ... ➡️ Add-ons ➡️ Install From Disk... ➡️ Choose the .zip
 
-"Extra Tools for Viewport Header Menu" will install and activate automatically. ✅
+Game Art Quick Tools will install and activate automatically. ✅
 
 ### Manual: Extract manually into your addons folder.
 
 * Linux: `~/.config/blender/5.3/scripts/addons/`
 * Windows: `%APPDATA%\Blender Foundation\Blender\5.3\scripts\addons`
 
-Start Blender ➡️ Edit ➡️ Preferences ... ➡️ Add-ons ➡️ Extra Tools for Viewport Header Menu ✅
+Start Blender ➡️ Edit ➡️ Preferences ... ➡️ Add-ons ➡️ Game Art Quick Tools ✅
 
 
 ## 🟧 Blender to 🟩 Substance to 🟦 Unreal Workflow
